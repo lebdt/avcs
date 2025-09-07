@@ -1,0 +1,14 @@
+# Python Virtual Environments
+*venv/
+
+# Environment Variables
+.env
+
+# Generated CSV Files
+media/
+
+# PyCache Files
+__pycache__/
+
+# MacOS metadata
+.DS_Store
