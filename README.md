@@ -26,6 +26,15 @@ After activating the virtual environment, run:
 pip install requirements.txt
 ```
 
+# Set your OpenAI API Key
+
+Create a file named `.env` under the `app` folder and then set your `OPENAI_API_KEY` as an environment variable for the project like so:
+
+```sh
+touch app/.env
+echo OPENAI_API_KEY=xx-xxxx-xxxxxxxxxx > app/.env
+```
+
 # Run
 
 To run the app after installing the required libraries run:
