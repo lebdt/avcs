@@ -50,6 +50,10 @@ cd app
 daphne -b 0.0.0.0 -p 8001 csv_processor.asgi:application
 ```
 
+# Demo
+
+![Preview](https://imgur.com/a/ANmY9Vt)
+
 # Collaborators
 
 - Ednan Reidyner Garcia
