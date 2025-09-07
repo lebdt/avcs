@@ -52,9 +52,7 @@ daphne -b 0.0.0.0 -p 8001 csv_processor.asgi:application
 
 # Demo
 
-<p align="center">
-    <img src="https://i.imgur.com/PSQzhEu.gif"/>
-</p>
+![Preview]("https://i.imgur.com/PSQzhEu.gif")
 
 # Collaborators
 
